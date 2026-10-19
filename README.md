@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @apdarjan / Adrian Darjan
-- Currently an IT Systems Administrator in COOP
+- Currently an IT Systems Administrator / DevOps Specialist
 - This git is primarily a storage for important scripts I might need later on.
